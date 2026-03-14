@@ -1,6 +1,5 @@
+title: Mohsen Fahimi
+description: AI Engineer . I train AI models
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme
-
-title: Mohsen Fahimi
-description: Personal website / online resume
+  - jekyll-remote-theme
